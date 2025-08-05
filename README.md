@@ -25,7 +25,7 @@ pip install requests bs4 pandas
 ```bash
 python main.py --max 10 --output output.csv
 ```
-После выполнения появится файл output.csv с данными по тендерам с первой страницы сайта.
+После выполнения появится файл output.csv с данными по тендерам с первой страницы сайта в количестве 10 штук.
 
 ## Пример содержимого CSV
 ```bash
@@ -49,4 +49,5 @@ name,organisation,publicated,end_date,link
 - 
 
 ## Автор
+
 Дмитрий Филатов (2025)
