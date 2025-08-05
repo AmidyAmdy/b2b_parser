@@ -46,8 +46,7 @@ name,organisation,publicated,end_date,link
 
 - Добавить сохранение в базу данных (SQLite, PostgreSQL, ...)
 
-- 
-
 ## Автор
 
 Дмитрий Филатов (2025)
+
